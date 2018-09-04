@@ -34,8 +34,8 @@ client.on('message', msg => {
   }
 });
 client.on('message', msg => {
-  if (msg.content === 'كلب') {
-    msg.reply('ابن الخرا');
+  if (msg.content === 'وين الحجي') {
+    msg.reply('يالكحاااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااب');
   }
 });
 client.on('message', msg => {
