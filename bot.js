@@ -29,18 +29,18 @@ client.user.setGame(` LizxCommunit`,"http://twitch.tv/S-F")
   console.log('')
 });
 client.on('message', msg => {
-  if (msg.content === 'خرا') {
-    msg.reply('من اناج حيدر');
-  }
-});
-client.on('message', msg => {
-  if (msg.content === 'وين الحجي') {
-    msg.reply('يالكحاااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااب');
-  }
-});
-client.on('message', msg => {
   if (msg.content === 'هلا') {
-    msg.reply('انيج حسين');
+    msg.reply('هلا فيك');
+  }
+});
+client.on('message', msg => {
+  if (msg.content === 'السلام عليكم') {
+    msg.reply('وعليكم السلام ورحمة الله وبركاته منور');
+  }
+});
+client.on('message', msg => {
+  if (msg.content ===('Hi') {
+    msg.reply('Hello');
   }
 });
 
