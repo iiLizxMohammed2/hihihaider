@@ -1,8 +1,5 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const ms = require('ms');
-const fs = require('fs');
-const prefix = '!'
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
 client.user.setGame(` LizxCommunit`,"http://twitch.tv/S-F")
@@ -28,21 +25,620 @@ client.user.setGame(` LizxCommunit`,"http://twitch.tv/S-F")
   console.log('')
   console.log('')
 });
-client.on('message', msg => {
-  if (msg.content === 'هلا') {
-    msg.reply('هلا فيك');
-  }
-});
-client.on('message', msg => {
-  if (msg.content === 'السلام عليكم') {
-    msg.reply('وعليكم السلام ورحمة الله وبركاته منور');
-  }
-});
-client.on('message', msg => {
-  if (msg.content ===('Hi') {
-    msg.reply('Hello');
-  }
-});
+
+
+
+
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
+
+
+
+client.on('ready', async() => {
+    const server = "474907182098284564"; // ايدي السررفر
+const channel = "505026874599145492";//ايدي الروم
+    setInterval(()=>{
+    client.guilds.get(server).channels.get(channel).send(`اوقفوا دقيقة صمت لشهداء العراق`)//spamming message.
+},1);//Delay Time
+})
 
 
 
