@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`i want nitro`,"http://twitch.tv/S-F")
+client.user.setGame(`By : IxMohammed#9906`,"http://twitch.tv/S-F")
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
@@ -159,7 +159,7 @@ client.on('message', message => {
 				message.guild.unban(userM.user);
 			
 				let unbanInfo = new Discord.RichEmbed()
-				.setTitle('\`BANNED`\')
+				.setTitle('\`BANNED\`')
 				.setThumbnail(message.guild.iconURL)
 				.setColor('#000000')
 				.setColor('#36393e')
