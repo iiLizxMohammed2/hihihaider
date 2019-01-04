@@ -1,5 +1,0 @@
-exports.run = (client, message, args, ops) => {
-    const prefix = '!';
-    message.author.send(`games Command \n ${prefix}slots -> slots game\n\n general commands\n ${prefix}avatar -> Shows yours or the user avatar.\n ${prefix}members -> Shows informations about members in your guild\n ${prefix}clientstats -> Shows informations about stats of client\n ${prefix}spotify -> Shows spotify informations\n ${prefix}user -> Shows your/users card ID\n\n Music commands\n ${prefix}play -> play the music \n ${prefix}stop -> stop the song \n ${prefix}skip -> to skip the song\n ${prefix}queue -> shows the queue \n ${prefix}pause -> paused the song \n ${prefix}resume -> resumed the song \n ${prefix}volume -> change the volume \n ${prefix}leave -> to leave the channel\n\n Admin command \n soon`)
-    message.channel.send(':ballot_box_with_check:  **I\'ve DMed you with my help list.**')
-}
