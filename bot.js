@@ -1,7 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const fs = require('fs');
-const ownerID = '427454716927279105';
 const shorten = require('isgd');
 const search = require('yt-search')
 const active = new Map();
@@ -10,7 +9,7 @@ const ytdl = require('ytdl-core');
 const prefix = "!";
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`By : IxMohammed#9906`,"http://twitch.tv/S-F")
+client.user.setGame(`!help`,"http://twitch.tv/S-F")
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
